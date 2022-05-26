@@ -1,2 +1,5 @@
-# Container-storage
- Treball de l'assignatura Algorismia i Programació 2 de GCED
+# Container Storage
+Pràctica 1 de l'assignatura AP2 de GCED. 
+**Currently in development**
+### Author
+Pau Amargant, contacte a pauamargant@gmail.com
